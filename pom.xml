@@ -16,7 +16,7 @@
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
          
-         <!-- Demo on Github Webooks-->
+         <!-- Demo on Github Webooks Hi-->
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
